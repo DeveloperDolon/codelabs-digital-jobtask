@@ -1,8 +1,11 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  return <div className="text-red-400 ">Hello world from bangladesh.</div>;
+  return (
+    <div className="">
+      <button className="btn">Button</button>
+    </div>
+  );
 }
 
 export default App;
