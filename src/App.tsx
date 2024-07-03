@@ -1,10 +1,10 @@
 import "./App.css";
-import NavBar from "./components/NavBar";
+import BannerSection from "./sections/BannerSection";
 
 function App() {
   return (
     <div className="">
-      <NavBar />
+      <BannerSection />
     </div>
   );
 }
