@@ -1,9 +1,10 @@
 import "./App.css";
+import NavBar from "./components/NavBar";
 
 function App() {
   return (
     <div className="">
-      <button className="btn">Button</button>
+      <NavBar />
     </div>
   );
 }
